@@ -1,5 +1,5 @@
 # crime-us
-Time Series Analysis on Crime in US
+Time Series Analysis on Crime in US. Project done in conjunction with Computatin Statistic class.
 
 ## Sources
 
